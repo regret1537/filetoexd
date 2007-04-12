@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ExportXml.csproj]
+SCC_Aux_Path = "\\1wfdev\VSS\WFLabs"
+SCC_Project_Name = "$/WFLabs/Extensions/EXTENSIONS/ExportXml", WLAAAAAA
+
+[ExportXml.sln]
+SCC_Aux_Path = "\\1wfdev\VSS\WFLabs"
+SCC_Project_Name = "$/WFLabs/Extensions/EXTENSIONS/ExportXml", WLAAAAAA

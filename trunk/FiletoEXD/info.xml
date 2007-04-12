@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<!--
+This product includes software developed by Dennis Rand - CIRT.DK.
+All use and distribution of the CIRT.DK developed software is subject to Version 2.0
+of the Apache License (http://www.apache.org/licenses/LICENSE-2.0).
+-->
+<WatchfireExtension>
+
+  <!-- Front End MetaData -->
+  <FullName>FiletoEXD</FullName>
+  <Description>Creates an AppScan EXD(Explore Data File) file from a directory listing</Description>
+  <Version>1.0</Version>
+  <Author>Dennis Rand - CIRT.DK</Author>
+  <MainDllFile>FiletoEXD.dll</MainDllFile>
+  <IconFile>FiletoEXD.png</IconFile>
+  <Copyright>2007 Dennis Rand - CIRT.DK</Copyright>
+
+  <!-- Target Application this extension can install into, 
+       with minimum and maximum supported versions. -->
+  <TargetEdition>
+
+    <!-- supported values: AppScanAuditors, AppScanDev, AppScanQA, AppScanXM, All -->
+    <ID>All</ID>
+
+    <MinCompatibleVersion>7.5</MinCompatibleVersion>
+    <MaxCompatibleVersion>7.9</MaxCompatibleVersion>
+
+  </TargetEdition>
+
+</WatchfireExtension>
